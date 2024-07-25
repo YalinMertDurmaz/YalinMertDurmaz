@@ -1,5 +1,5 @@
-<h2 align="center">Hi 👋, I'm Yalın Mert Durmaz</h2>
-<h3 align="center">A passionate software developer from Türkiye</h3>
+<h2 align="left">Hi 👋, I'm Yalın Mert Durmaz</h2>
+<h4 align="left">Hello! I am Yalın Mert Durmaz, a 4th year student at Süleyman Demirel University, Department of Electrical and Electronics Engineering. I have a special interest in areas such as artificial intelligence, software, deep learning. I am currently learning Sap, Abap in my internship program.</h4>
 
 - 🔭 I’m currently working on **Sap, Abap**
 
@@ -20,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yalinmertdurmaz&show_icons=true&locale=en" alt="yalinmertdurmaz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yalinmertdurmaz&" alt="yalinmertdurmaz" /></p>
+
