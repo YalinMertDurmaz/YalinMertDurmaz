@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋, I'm Yalın Mert Durmaz</h2>
 <h4 align="left">Hello! I am Yalın Mert Durmaz, a 4th-year student in the Electrical and Electronics Engineering department at Süleyman Demirel University. I have a special interest in areas such as artificial intelligence, software, and cloud technologies, and I continue to develop myself through various projects and applications. During my internship at Aegeansoft, I gained valuable experience in full stack development, further enhancing my technical and professional skills. I am now working as a permanent JR. Fiori Consultant in the Fiori department at Aegeansoft.
-&nbsp
+
+
 As someone who excels in teamwork, has strong analytical thinking skills, and a solid problem-solving ability, I strive to create innovative and effective solutions in my career.</h4>
 
 - 🔭 I’m currently working on **Sap, Abap**
