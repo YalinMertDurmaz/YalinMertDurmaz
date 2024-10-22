@@ -3,7 +3,7 @@
 
 
 
-<h4As someone who excels in teamwork, has strong analytical thinking skills, and a solid problem-solving ability, I strive to create innovative and effective solutions in my career.</h4>
+As someone who excels in teamwork, has strong analytical thinking skills, and a solid problem-solving ability, I strive to create innovative and effective solutions in my career.</h4>
 
 - 🔭 I’m currently working on **Sap, Abap**
 
